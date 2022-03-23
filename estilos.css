@@ -1,0 +1,16 @@
+
+/* Hoja de estilos para los ejercicios */
+
+body {
+    background-color:blue;
+}
+.principal {
+    background-color: rgba(100, 94, 184, 0.8);
+    margin-top: 20px;
+}
+#ultimas a {
+    font-size: 14px;
+    color:rgb(255, 0, 0);
+    font-weight: normal;
+    margin-bottom: 10px;
+}
